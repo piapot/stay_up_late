@@ -1,0 +1,12 @@
+version: "0.2"
+ignorePaths:
+  - ./*.json
+dictionaryDefinitions: []
+dictionaries: []
+words:
+  - Attributify
+  - dcloudio
+  - unocss
+  - weapp
+ignoreWords: []
+import: []

@@ -1,0 +1,14 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index"
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationStyle": "custom",
+    "app-plus": {
+      "titleView": false
+    }
+  }
+}
